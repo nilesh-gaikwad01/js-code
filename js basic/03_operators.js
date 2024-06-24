@@ -138,3 +138,33 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+//+++++++++++++++++++++++++++++++++++++++++++++
+
+// Use of stack And Heap memory 
+
+//  Primitive - stack , Non-Primitive - Heap
+
+// stack - When You Declare the variable Then, Stack gave A copy to you.
+// Heap - When You Declare the variable Then, Heap gave Referance(Original Value) to you.
+
+let firststackbox = "Nilesh"
+
+let secondbox = "Box2"
+
+console.log(firststackbox)
+console.log(secondbox)
+
+// Remember Heap gave referances(Non-Primetive) rather than copy(primitive)
+
+
+
+
+
+
+
+
+
+
+
+
