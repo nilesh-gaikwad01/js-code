@@ -92,7 +92,7 @@ console.log("Type of functionExample:", typeof Example); // function
 
 let car;    // Value is undefined, type is undefined
 
-console.log(car) //Undefineprint
+console.log(car) //Undefine print
 console.log(typeof car)
 
 //symbol Datatype
